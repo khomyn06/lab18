@@ -1,0 +1,48 @@
+.future-container {
+    padding: 2rem;
+    background: #ffffffbb;
+    border-radius: 1rem;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  }
+  
+  .future-container h2 {
+    color: #2c3e50;
+  }
+  
+  .future-container ol {
+    padding-left: 1.2rem;
+    line-height: 1.6;
+  }
+  
+  .future-container blockquote {
+    margin: 1.5rem 0;
+    padding: 1rem;
+    background: #f3f3f3;
+    border-left: 4px solid #0077cc;
+    font-style: italic;
+    color: #555;
+  }
+  
+  .dream-job {
+    font-size: 1.1rem;
+    margin-top: 1rem;
+  }
+  
+  .future-image-container {
+    margin-top: 2rem;
+    text-align: center;
+  }
+  
+  .future-image {
+    max-width: 100%;
+    height: auto;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+  }
+  
+  .image-caption {
+    margin-top: 0.5rem;
+    font-style: italic;
+    color: #666;
+  }
+  
